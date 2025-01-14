@@ -39,7 +39,7 @@
 
 ## Usage Example
 
-  ```bash
+  ```
   racket stol.scm
   >> (expt (* x 2) (+ 5 (log 2 10)))
   (x \times 2)^{(5 + \log_{10}(2))}
