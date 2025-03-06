@@ -8,7 +8,7 @@
 
 ## Requirements
 
-  It is necessary to have ``racket`` installed in order to run the program.
+  It is necessary to have ``racket`` installed in order to run the program and probably the ``DRRacket`` IDE in order to ``#lang scheme`` be supported.
 
 ---
 
@@ -20,7 +20,7 @@
   racket stol.scm
   ```
 
-  in the terminal in order to start the stol REPL.
+  in the terminal in order to start the StoL REPL.
 
 ---
 
