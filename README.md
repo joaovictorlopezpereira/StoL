@@ -8,7 +8,7 @@
 
 ## Requirements
 
-  It is necessary to have ``racket`` installed in order to run the program and probably the ``DRRacket`` IDE in order to ``#lang scheme`` be supported.
+  It is necessary to have ``racket`` installed in order to run the program and probably the ``DrRacket`` IDE in order to ``#lang scheme`` be supported.
 
 ---
 
